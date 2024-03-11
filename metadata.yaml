@@ -1,0 +1,28 @@
+_repo: Immigration-b-A-world-movement-and-its-American-significance_73074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fairchild, Henry Pratt
+    gutenberg_agent_id: '56939'
+    url: http://www.gutenberg.org/2009/agents/56939
+description: ''
+gutenberg_issued: '2024-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73074'
+language: en
+pgterms:marc904: https://archive.org/details/b28069614
+pgterms:marc905: 20221116130927fairchild
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Richard Tonsing, deaurider, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Macmillan Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Immigration : $b A world movement and its American significance'
+url: http://www.gutenberg.org/ebooks/73074
