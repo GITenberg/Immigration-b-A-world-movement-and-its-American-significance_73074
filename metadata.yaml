@@ -1,11 +1,16 @@
 _repo: Immigration-b-A-world-movement-and-its-American-significance_73074
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73074-h/images/cover.jpg
 creator:
   author:
     agent_name: Fairchild, Henry Pratt
     gutenberg_agent_id: '56939'
     url: http://www.gutenberg.org/2009/agents/56939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73074#Immigration-b-A-world-movement-and-its-American-significance
 gutenberg_issued: '2024-03-01'
 gutenberg_type: Text
 identifiers:
